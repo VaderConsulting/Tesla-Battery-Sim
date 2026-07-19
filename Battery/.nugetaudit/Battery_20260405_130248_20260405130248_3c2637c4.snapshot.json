@@ -1,0 +1,38 @@
+{
+  "SnapshotId": "20260405130248_3c2637c4",
+  "CapturedUtc": "2026-04-05T13:02:48.5184655+00:00",
+  "NormalisedContentHash": "7C2C8BC626796DDACCD2FCECCD644C2711EC28EBE40791FA4C71659B07A34A72",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "Battery",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Tesla\\Battery\\Battery.csproj",
+    "SolutionKey": "F9AFE8861DF39C5E",
+    "SourceIdentity": {
+      "IdentityKey": "F9AFE8861DF39C5E",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Tesla\\Battery\\Battery.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Tesla\\Battery",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "6D75CAA43CABF108",
+      "ProjectName": "Battery",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Tesla\\Battery\\Battery.csproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": "net5.0-windows",
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": []
+    }
+  ],
+  "Warnings": []
+}
