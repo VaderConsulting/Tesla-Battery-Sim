@@ -2,6 +2,8 @@
 
 A .NET 5 Windows Forms application simulating the Tesla Model 3 high-voltage battery pack. Provides an interactive visual representation of all 96 cells, live battery statistics, a charge/discharge engine, and optional serial-port telemetry output that mimics a real Tesla BMS console.
 
+**Source last updated:** 2022-02-17
+
 **Initiated:** 2022-02-18 · **Framework:** .NET 5 Windows Forms · **Solution:** `Tesla.sln`
 
 ---
