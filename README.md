@@ -24,7 +24,7 @@ Open `Tesla.sln` in Visual Studio. The solution references sibling CustomControl
 
 ## Attribution and provenance
 
-Dave Robinson's working copy from OneDrive Historical Dev (folder formerly known as Tesla; GitHub repo Tesla-Battery-Sim). Simulates Model 3 pack behaviour for local experimentation; not affiliated with Tesla, Inc.
+my working copy from OneDrive Historical Dev (folder formerly known as Tesla; GitHub repo Tesla-Battery-Sim). Simulates Model 3 pack behaviour for local experimentation; not affiliated with Tesla, Inc.
 
 ## License
 
