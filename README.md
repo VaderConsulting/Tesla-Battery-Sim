@@ -24,6 +24,8 @@ Open `Tesla.sln` in Visual Studio. The solution references sibling CustomControl
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 Working copy from my Development folder `Tesla` (GitHub repo Tesla-Battery-Sim). Simulates Model 3 pack behaviour for local experimentation; not affiliated with Tesla, Inc.
 
 ## License
